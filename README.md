@@ -23,10 +23,7 @@ It was created as part of my **Scientific Computing with Python Certification**.
 ```python
 add_time('11:55 AM', '12:07', 'Monday')
 ```
-**Parameters**
-start: e.g. "11:55 AM"
-duration: e.g. "12:07"
-weekday (optional): e.g. "Monday" (any case)
+**Parameters:** start: e.g. "11:55 AM", duration: e.g. "12:07", weekday (optional): e.g. "Monday" (any case)
 
 ### Output
 ```python
